@@ -1,0 +1,2 @@
+# SitecoreCDPSnippets
+Random snippets
